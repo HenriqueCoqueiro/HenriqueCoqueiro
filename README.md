@@ -24,10 +24,9 @@
 <h2 align="left"></h2>
 <h4 align="left">ABOUT ME <br>Hi, I'm Henrique Coqueiro de Melo, a Computer Engineering student passionate about backend development and problem-solving. I enjoy building efficient and scalable systems, working with databases, and optimizing performance. Always learning and exploring new technologies.<br><br>Let's connect and create something amazing! 🚀</h4>
 
-###
-<h2 align="left">CONECT WITH ME</h2>
+<h2 align="left"></h2>
+<h4 align="left">CONECT WITH ME</h4>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrique-coqueiro-319094247/" target="_blank">
@@ -37,16 +36,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
----
+<h2 align="left"></h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueCoqueiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueCoqueiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
+<h2 align="left"></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueCoqueiro/HenriqueCoqueiro/output/pacman-contribution-graph-dark.svg">
