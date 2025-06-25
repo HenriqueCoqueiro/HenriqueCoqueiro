@@ -22,7 +22,7 @@
 
 ###
 <h2 align="left"></h2>
-<h4 align="left">ABOUT ME <br>Hi, I'm Henrique Coqueiro de Melo, a Computer Engineering student passionate about backend development and problem-solving. I enjoy building efficient and scalable systems, working with databases, and optimizing performance. Always learning and exploring new technologies.<br><br>Let's connect and create something amazing! 🚀</h4>
+<h4 align="left">ABOUT ME <br>Hey there, I'm Henrique Coqueiro de Melo, a Computer Engineering student passionate about backend development and problem-solving. I enjoy building efficient and scalable systems, working with databases, and optimizing performance. Always learning and exploring new technologies.<br><br>Let's connect and create something amazing! 🚀</h4>
 
 <h2 align="left"></h2>
 <h4 align="left">CONECT WITH ME</h4>
